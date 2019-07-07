@@ -12,6 +12,11 @@ Also we have this options:
 ## Hardware
 
 ## Software
+- Arduino Ide
+- Trought HTML
+ * Connect to wifi network ??????
+ * Open Webpage with the adress 192.168.0.1 and configure your Wifi Network
+ * After save and connect to your wifi network, For open web brower select http://hostname or http://hvac_teste
 
 ## Libraries
 Nome | Link | Versão 
