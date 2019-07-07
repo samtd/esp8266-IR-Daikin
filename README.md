@@ -37,4 +37,4 @@ Nome | Link | Versão
 IRremoteESP8266 | [GIT](https://github.com/crankyoldgit/IRremoteESP8266) | `last`
 
 ##
-Thanks for to David Conran for contribution of library IRremoteESP8266 and support
+Thanks for [David Conran] (https://github.com/crankyoldgit) for contribution of library IRremoteESP8266 and great support
