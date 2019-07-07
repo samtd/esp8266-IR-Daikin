@@ -11,6 +11,8 @@ Also we have this options:
 
 ## Hardware
 
+![devices](https://github.com/samtd/esp8266-IR-Daikin/blob/master/hardware/Schematic_rev2.png)
+
 ## Software
 - Arduino Ide
 - Trought HTML:
