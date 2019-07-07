@@ -20,7 +20,7 @@ Use MQTT to receive and send information to ESP8266 and MQTT Server
 * Transistor 2N222
 * Resistor 10Kohm
 
-![devices](https://github.com/samtd/esp8266-IR-Daikin/blob/master/hardware/Schematic_rev2.png)
+![devices](https://github.com/samtd/esp8266-IR-Daikin/blob/master/hardware/Schematic_rev2_tumb.png)
 
 ## Software
 - Arduino Ide https://www.arduino.cc
