@@ -10,16 +10,31 @@ Also we have this options:
   * Receive Lighting nivel from LDR
 
 ## Hardware
+* NodeMCU board ESP8266 WiFi module ESP-12E Lua WiFi
+* PIR Motion Sensor Module
+* Infrared Receiver 38KHz 
+* Infrared Emitter 940nm
+* LDR - Light Controlled Resistor 1Mohm
+* DHT22 temperature-humidity sensor
+* Transistor 2N222
+* Resistor 10Kohm
 
 ![devices](https://github.com/samtd/esp8266-IR-Daikin/blob/master/hardware/Schematic_rev2.png)
 
 ## Software
-- Arduino Ide
+- Arduino Ide https://www.arduino.cc
+- Fritzing https://fritzing.org/
 - Trought HTML:
    * Connect to wifi network ??????
    * Open Webpage with the adress 192.168.0.1 and configure your Wifi Network
    * After save and connect to your wifi network, For open web brower select http://hostname or http://hvac_teste
+   
+  ![html](https://github.com/samtd/esp8266-IR-Daikin/blob/master/hardware/html_rev105.png)
 
 ## Libraries
 Nome | Link | Versão 
 :---: | :---: | ---:
+IRremoteESP8266 | [GIT](https://github.com/crankyoldgit/IRremoteESP8266) | `last`
+
+##
+Thanks for to David Conran for contribution of library IRremoteESP8266 and support
