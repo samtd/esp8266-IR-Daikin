@@ -8,6 +8,7 @@ Also we have this options:
   * Receive Information from PIR sensor
   * Receive Temperature e Humidity of DHT22
   * Receive Lighting nivel from LDR
+Use MQTT to receive and send information to ESP8266 and MQTT Server
 
 ## Hardware
 * NodeMCU board ESP8266 WiFi module ESP-12E Lua WiFi
